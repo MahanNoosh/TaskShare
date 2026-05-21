@@ -38,8 +38,8 @@ This is a full-stack **To-Do Social App** created as my **personal project**. Th
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/MahanNoosh/Web-Development-project.git
-cd Web-Development-project
+git clone https://github.com/MahanNoosh/TaskShare.git
+cd TaskShare
 ```
 
 ### 2. Install dependencies
