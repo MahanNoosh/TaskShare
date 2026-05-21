@@ -1,4 +1,4 @@
-# 📝 Web Development Project
+# 📝 TaskShare
 
 This is a full-stack **To-Do Social App** created as my **personal project**. The app allows users to manage daily tasks and share completed ones — combining productivity with social interaction.
 
