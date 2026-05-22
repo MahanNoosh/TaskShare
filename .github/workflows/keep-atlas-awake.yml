@@ -1,0 +1,15 @@
+name: Keep Atlas Awake
+
+on:
+  schedule:
+    - cron: "23 9 1,15 * *"
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wake TaskShare
+        run: |
+          curl --fail --silent --show-error --head --location --max-time 60 \
+            "https://taskshare.up.railway.app/" >/dev/null
