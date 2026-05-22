@@ -2,7 +2,7 @@
 
 This is a full-stack **To-Do Social App** created as my **personal project**. The app allows users to manage daily tasks and share completed ones — combining productivity with social interaction.
 
-🔗 **Live Demo:** https://web-development-project-1.onrender.com/
+🔗 **Live Demo:** https://taskshare.up.railway.app
 
 ---
 
